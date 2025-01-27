@@ -1,4 +1,4 @@
-# Quantum Monte Carlo for Exotic Options
+# Quantum Monte Carlo Simulations for Exotic Options
 
 ## Overview
 This repository contains the codebase and resources for a project focused on leveraging Quantum Monte Carlo (QMC) simulations to price and analyze exotic financial options. Exotic options, such as Asian, barrier, and lookback options, present complex challenges in derivative pricing that can be addressed using the computational advantages of quantum computing.
